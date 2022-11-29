@@ -6,5 +6,6 @@ Git is easy to work with.
 Git is bad tool.
 Git is comprehensive tool.
 Git is a nice tool.
-fgfggh
 It is an SCM tool.
+This is last line.
+
