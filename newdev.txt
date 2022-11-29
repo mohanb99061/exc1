@@ -3,9 +3,8 @@ This is task two.
 Git is lightweight.
 Git is widely used tool.
 Git is easy to work with.
-<<<<<<< HEAD
 Git is bad tool.
-=======
 Git is comprehensive tool.
 Git is a nice tool.
->>>>>>> 15e8737a9f3cdda3256ce005cd792dcd9cbc9eaa
+fgfggh
+It is an SCM tool.
