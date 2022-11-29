@@ -9,4 +9,5 @@ Git is a nice tool.
 It is an SCM tool.
 This is last line.
 This is added to task1 branch.
+This is added to task2 branch.
 
